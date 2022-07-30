@@ -25,6 +25,7 @@ Dependencies:
 
 Instructions:
 
+0) change litecoin2 name directory to litecoin.
 1) litecoin directory, script1, script2, script3, script4, otherScripts and img should go in the Desktop.
 2) CreateCoin directory should go inside the opt/lampp/htdocs directory.
 3) You should change the variables inside scripts to customize your coin.
